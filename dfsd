@@ -1,0 +1,59 @@
+[33mcommit 3c6878562f1b5e21898903d5288ec9452c3a5838[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: AmritpalChera <cheraamritpal@gmail.com>
+Date:   Thu Dec 23 12:35:23 2021 -0500
+
+    some final changes
+
+[33mcommit f360431ec4a9cce394088cdcad7deb75651c748b[m
+Author: AmritpalChera <cheraamritpal@gmail.com>
+Date:   Wed Dec 22 21:56:40 2021 -0500
+
+    new updates
+
+[33mcommit 9b377d19922ab6e424dfd4dbda6b5d873e6e12d4[m
+Author: AmritpalChera <cheraamritpal@gmail.com>
+Date:   Mon Nov 15 08:24:18 2021 -0500
+
+    redux store added
+
+[33mcommit 32f341ccdfd5470291d4a9aec826ce44530f7045[m
+Author: AmritpalChera <cheraamritpal@gmail.com>
+Date:   Sun Oct 24 21:01:41 2021 -0400
+
+    backend logic near completion
+
+[33mcommit 58ff80d308ae9d41c67b625dc1107187bc1ec923[m
+Author: AmritpalChera <cheraamritpal@gmail.com>
+Date:   Sat Sep 4 13:01:52 2021 -0400
+
+    withdraw ether and tokens and check balances
+
+[33mcommit 9b760fd211b18c3d215f7d7cac36a60eaacc7dc0[m
+Author: AmritpalChera <cheraamritpal@gmail.com>
+Date:   Fri Sep 3 23:03:14 2021 -0400
+
+    test file for the exchange
+
+[33mcommit ee77c2c087ce1bd6650b2c6b97dd8b9d5dacd6ab[m
+Author: AmritpalChera <cheraamritpal@gmail.com>
+Date:   Fri Sep 3 23:02:54 2021 -0400
+
+    implented deposits into the exchange
+
+[33mcommit b02707fd0bf2e36f0c28104652b033f3e84e60ac[m
+Author: AmritpalChera <cheraamritpal@gmail.com>
+Date:   Fri Sep 3 21:21:27 2021 -0400
+
+    work in progess
+
+[33mcommit 8b74531511bbd12990bf754ffe60089c455ac967[m
+Author: AmritpalChera <cheraamritpal@gmail.com>
+Date:   Mon Jul 5 20:30:13 2021 -0400
+
+    initial commit
+
+[33mcommit e1223add9cf26d7054051a522b77b5a0f38cc94f[m
+Author: AmritpalChera <cheraamritpal@gmail.com>
+Date:   Mon Jul 5 20:25:35 2021 -0400
+
+    Initialize project using Create React App

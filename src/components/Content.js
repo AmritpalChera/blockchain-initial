@@ -8,6 +8,7 @@ import OrderBook from './OrderBook';
 import MyTransactions from './MyTransactions';
 import PriceChart from './PriceChart';
 import Balance from './Balance'
+import NewOrder from './NewOrder';
 
 const Content = (props) => {
   const { exchange } = props;
@@ -33,7 +34,7 @@ const Content = (props) => {
               </div>
             </div> */}
           <Balance/>
-            <div className="card bg-dark text-white">
+            {/* <div className="card bg-dark text-white">
               <div className="card-header">
                 Card Title
               </div>
@@ -41,7 +42,8 @@ const Content = (props) => {
                 <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 <a href="/#" className="card-link">Card link</a>
               </div>
-            </div>
+            </div> */}
+          <NewOrder/>
           </div>
           {/* <div className="vertical">
             <div className="card bg-dark text-white">
